@@ -14,7 +14,7 @@ import junit.framework.Assert;
 import page.HomePage;
 import page.LoginPage;
 import util.ReadDataFromExcel;
-//Hometest class
+
 public class HomeTest extends BaseTest
 {
 	WebDriver driver;
